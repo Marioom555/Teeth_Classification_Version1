@@ -49,6 +49,7 @@ Overlayed visualizations for interpretability
 
 <img width="662" height="300" alt="Image" src="https://github.com/user-attachments/assets/e8bbee7a-8bd6-4cfc-bace-5761fcdf357c" />
 <img width="616" height="198" alt="Image" src="https://github.com/user-attachments/assets/f18f79ab-4af6-41e6-bc9b-5286929e8912" />
+<img width="615" height="387" alt="Image" src="https://github.com/user-attachments/assets/ca841d29-9df4-48db-b27b-3bd1d094a22d" />
 
 ## ⚙️ Installation  
 Clone the repository and install dependencies:  
