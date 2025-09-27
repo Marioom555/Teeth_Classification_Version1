@@ -9,7 +9,7 @@ Additional visualizations are provided for training/validation curves and **Grad
 
 ## 🚀 Features  
 - **From-Scratch CNN Model** – Custom deep network, no pretrained weights.  
-- **High Accuracy (98–99%)** – Achieved through balanced dataset, data augmentation, and careful tuning.  
+- **High Accuracy (96–98%)** – Achieved through balanced dataset, data augmentation, and careful tuning.  
 - **Training & Validation Curves** – Visualize training loss and validation accuracy.  
 - **Grad-CAM** – Highlight important image regions for classification decisions.  
 - **Overlay Visualization** – Heatmap overlays on original images for interpretability.  
@@ -27,13 +27,15 @@ Additional visualizations are provided for training/validation curves and **Grad
 ---
 
 ## 📂 Project Structure
+
 Teeth-Classification/
-│── data/ # Dataset (train / val / test folders)
-│── models/ # Saved model checkpoints
-│── outputs/ # Grad-CAM and overlay visualizations
-│── main.py # Training & evaluation script
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
+├── 📁 data/               # Dataset (train / val / test folders)
+├── 📁 models/             # Saved model checkpoints
+├── 📁 outputs/            # Grad-CAM results & visualizations
+├── 📄 main.py             # Training & evaluation script
+├── 📄 requirements.txt    # Project dependencies
+└── 📄 README.md           # Documentation
+
 
 
 
@@ -51,20 +53,18 @@ Overlayed visualizations for interpretability
 <img width="616" height="198" alt="Image" src="https://github.com/user-attachments/assets/f18f79ab-4af6-41e6-bc9b-5286929e8912" />
 <img width="615" height="387" alt="Image" src="https://github.com/user-attachments/assets/ca841d29-9df4-48db-b27b-3bd1d094a22d" />
 
-## ⚙️ Installation  
-Clone the repository and install dependencies:  
-```bash
-git clone https://github.com/YourUsername/Teeth-Classification.git
-cd Teeth-Classification
-pip install -r requirements.txt
-
-
----
-
-
-
-
 ---
 👨‍💻 Author
 
 Developed by Mariam Ashraf – Passionate about AI & Healthcare
+
+
+## ⚙️ Installation  
+Clone the repository and install dependencies:  
+```bash
+git clone https://github.com/Marioom555/Teeth-Classification.git
+cd Teeth-Classification
+pip install -r requirements.txt
+
+
+
