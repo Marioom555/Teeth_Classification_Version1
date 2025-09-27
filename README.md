@@ -39,6 +39,16 @@ Teeth-Classification/
 
 ---
 
+📊 Results & Visualizations
+
+Training vs. Validation Accuracy/Loss plots
+
+Grad-CAM heatmaps to show what the model focuses on
+
+Overlayed visualizations for interpretability
+
+<img width="662" height="300" alt="Image" src="https://github.com/user-attachments/assets/e8bbee7a-8bd6-4cfc-bace-5761fcdf357c" />
+
 ## ⚙️ Installation  
 Clone the repository and install dependencies:  
 ```bash
@@ -49,15 +59,6 @@ pip install -r requirements.txt
 
 ---
 
-📊 Results & Visualizations
-
-Training vs. Validation Accuracy/Loss plots
-
-Grad-CAM heatmaps to show what the model focuses on
-
-Overlayed visualizations for interpretability
-
-<p align="center"> <img src="outputs/training_curve.png" width="400"/> <img src="outputs/gradcam_example.png" width="400"/> </p>
 
 
 
