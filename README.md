@@ -26,7 +26,7 @@ Additional visualizations are provided for training/validation curves and **Grad
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure
 Teeth-Classification/
 │── data/ # Dataset (train / val / test folders)
 │── models/ # Saved model checkpoints
