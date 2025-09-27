@@ -48,6 +48,7 @@ Grad-CAM heatmaps to show what the model focuses on
 Overlayed visualizations for interpretability
 
 <img width="662" height="300" alt="Image" src="https://github.com/user-attachments/assets/e8bbee7a-8bd6-4cfc-bace-5761fcdf357c" />
+<img width="616" height="198" alt="Image" src="https://github.com/user-attachments/assets/f18f79ab-4af6-41e6-bc9b-5286929e8912" />
 
 ## ⚙️ Installation  
 Clone the repository and install dependencies:  
