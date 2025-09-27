@@ -28,13 +28,15 @@ Additional visualizations are provided for training/validation curves and **Grad
 
 ## 📂 Project Structure
 
-Teeth-Classification/
-├── 📁 data/               # Dataset (train / val / test folders)
-├── 📁 models/             # Saved model checkpoints
-├── 📁 outputs/            # Grad-CAM results & visualizations
-├── 📄 main.py             # Training & evaluation script
-├── 📄 requirements.txt    # Project dependencies
-└── 📄 README.md           # Documentation
+| Path              | Description                                  |
+|-------------------|----------------------------------------------|
+| `data/`           | Contains dataset (train, validation, test). |
+| `models/`         | Stores trained model checkpoints.           |
+| `outputs/`        | Grad-CAM outputs & visualization results.   |
+| `main.py`         | Main training & evaluation script.          |
+| `requirements.txt`| Dependencies list for environment setup.    |
+| `README.md`       | Project documentation.                      |
+
 
 
 
