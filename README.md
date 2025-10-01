@@ -58,7 +58,7 @@ Overlayed visualizations for interpretability
 ---
 👨‍💻 Author
 
-Developed by Mariam Ashraf – Passionate about AI & Healthcare
+Developed by  Eng\ Mariam Ashraf 
 
 
 ## ⚙️ Installation  
