@@ -1,4 +1,4 @@
-# 🦷 Teeth Classification – Deep Learning Project  
+# 🦷 Teeth Classification   
 
 ## 📌 About the Project  
 This project implements a **Convolutional Neural Network (CNN)** from scratch (no pretrained models) to classify dental images with **96–98% accuracy**.  
